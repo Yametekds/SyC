@@ -1,2 +1,2 @@
 # SyC
-pixel Rhytim game
+Rhythm game made in Unity (C#)
