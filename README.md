@@ -10,7 +10,7 @@ Feel free to fork the project for that purpose.
 
 This project is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](LICENSE):
 
-- **Attribution:** always credit the original work (SyC by FernandoYMT, with a link to this repository).
+- **Attribution:** always credit the original work (SyC by Fernando Antonio Hernández Tapia, with a link to this repository).
 - **NonCommercial:** no commercial use of the game, its code or its assets.
 - **ShareAlike:** songs, mods and other derivatives must be released under this same license.
 
