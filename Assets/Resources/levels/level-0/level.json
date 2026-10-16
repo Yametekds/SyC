@@ -1,0 +1,1125 @@
+{
+
+  "name": "Infinite Plus One",
+  "author": "Uziel Sabalza",
+  "mainBpm": 130,
+  "hitOffset": 0.095,
+  "notes": [
+    {
+      "spawnTime": 0.0,
+      "key": 2
+    },
+    {
+      "spawnTime": 0.3692,
+      "key": 2
+    },
+    {
+      "spawnTime": 1.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 1.6154,
+      "key": 0
+    },
+    {
+      "spawnTime": 1.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 2.1692,
+      "key": 2
+    },
+    {
+      "spawnTime": 3.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 3.4615,
+      "key": 0
+    },
+    {
+      "spawnTime": 3.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 4.0615,
+      "key": 2
+    },
+    {
+      "spawnTime": 4.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 5.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 5.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 5.9077,
+      "key": 2
+    },
+    {
+      "spawnTime": 6.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 7.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 7.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 7.7538,
+      "key": 2
+    },
+    {
+      "spawnTime": 8.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 9.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 9.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 9.6,
+      "key": 2
+    },
+    {
+      "spawnTime": 10.3846,
+      "key": 0
+    },
+    {
+      "spawnTime": 10.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 11.0769,
+      "key": 1
+    },
+    {
+      "spawnTime": 11.4462,
+      "key": 2
+    },
+    {
+      "spawnTime": 12.2308,
+      "key": 0
+    },
+    {
+      "spawnTime": 12.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 12.9231,
+      "key": 1
+    },
+    {
+      "spawnTime": 13.2923,
+      "key": 2
+    },
+    {
+      "spawnTime": 13.6154,
+      "key": 1
+    },
+    {
+      "spawnTime": 13.8462,
+      "key": 1
+    },
+    {
+      "spawnTime": 14.1692,
+      "key": 1
+    },
+    {
+      "spawnTime": 14.4923,
+      "key": 2
+    },
+    {
+      "spawnTime": 14.7692,
+      "key": 2
+    },
+    {
+      "spawnTime": 15.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 15.5077,
+      "key": 2
+    },
+    {
+      "spawnTime": 16.4308,
+      "key": 0
+    },
+    {
+      "spawnTime": 16.9385,
+      "key": 2
+    },
+    {
+      "spawnTime": 17.2615,
+      "key": 2
+    },
+    {
+      "spawnTime": 18.2769,
+      "key": 0
+    },
+    {
+      "spawnTime": 18.7846,
+      "key": 2
+    },
+    {
+      "spawnTime": 19.1077,
+      "key": 2
+    },
+    {
+      "spawnTime": 20.1231,
+      "key": 2
+    },
+    {
+      "spawnTime": 20.3538,
+      "key": 0
+    },
+    {
+      "spawnTime": 20.5846,
+      "key": 0
+    },
+    {
+      "spawnTime": 20.8154,
+      "key": 0
+    },
+    {
+      "spawnTime": 21.9692,
+      "key": 0
+    },
+    {
+      "spawnTime": 22.8923,
+      "key": 0
+    },
+    {
+      "spawnTime": 23.3538,
+      "key": 0
+    },
+    {
+      "spawnTime": 23.6769,
+      "key": 0
+    },
+    {
+      "spawnTime": 24.0,
+      "key": 2
+    },
+    {
+      "spawnTime": 24.3231,
+      "key": 0
+    },
+    {
+      "spawnTime": 24.6462,
+      "key": 0
+    },
+    {
+      "spawnTime": 24.9692,
+      "key": 0
+    },
+    {
+      "spawnTime": 25.2923,
+      "key": 0
+    },
+    {
+      "spawnTime": 25.6154,
+      "key": 1
+    },
+    {
+      "spawnTime": 25.9385,
+      "key": 0
+    },
+
+    {
+      "spawnTime": 29.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 29.8846,
+      "key": 2
+    },
+    {
+      "spawnTime": 30.1154,
+      "key": 0
+    },
+    {
+      "spawnTime": 30.4615,
+      "key": 2
+    },
+    {
+      "spawnTime": 30.9231,
+      "key": 2
+    },
+    {
+      "spawnTime": 31.2692,
+      "key": 0
+    },
+    {
+      "spawnTime": 31.5,
+      "key": 0
+    },
+    {
+      "spawnTime": 31.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 32.3077,
+      "key": 1
+    },
+    {
+      "spawnTime": 32.7692,
+      "key": 0
+    },
+    {
+      "spawnTime": 33.1154,
+      "key": 2
+    },
+    {
+      "spawnTime": 33.3462,
+      "key": 0
+    },
+    {
+      "spawnTime": 33.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 34.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 34.5,
+      "key": 2
+    },
+    {
+      "spawnTime": 34.7308,
+      "key": 0
+    },
+    {
+      "spawnTime": 35.0769,
+      "key": 2
+    },
+    {
+      "spawnTime": 35.5385,
+      "key": 1
+    },
+
+    {
+      "spawnTime": 36.0,
+      "key": 2
+    },
+    {
+      "spawnTime": 36.3692,
+      "key": 2
+    },
+    {
+      "spawnTime": 37.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 37.6154,
+      "key": 0
+    },
+    {
+      "spawnTime": 37.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 38.1692,
+      "key": 2
+    },
+    {
+      "spawnTime": 39.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 39.4615,
+      "key": 0
+    },
+    {
+      "spawnTime": 39.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 40.0615,
+      "key": 2
+    },
+    {
+      "spawnTime": 40.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 41.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 41.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 41.9077,
+      "key": 2
+    },
+    {
+      "spawnTime": 42.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 43.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 43.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 43.7538,
+      "key": 2
+    },
+    {
+      "spawnTime": 44.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 45.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 45.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 45.6,
+      "key": 2
+    },
+    {
+      "spawnTime": 46.3846,
+      "key": 0
+    },
+    {
+      "spawnTime": 46.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 47.0769,
+      "key": 1
+    },
+    {
+      "spawnTime": 47.4462,
+      "key": 2
+    },
+    {
+      "spawnTime": 48.2308,
+      "key": 0
+    },
+    {
+      "spawnTime": 48.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 48.9231,
+      "key": 1
+    },
+    {
+      "spawnTime": 49.2923,
+      "key": 2
+    },
+    {
+      "spawnTime": 49.6154,
+      "key": 1
+    },
+    {
+      "spawnTime": 49.8462,
+      "key": 1
+    },
+    {
+      "spawnTime": 50.1692,
+      "key": 1
+    },
+    {
+      "spawnTime": 50.4923,
+      "key": 2
+    },
+    {
+      "spawnTime": 50.7692,
+      "key": 2
+    },
+    {
+      "spawnTime": 51.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 51.5077,
+      "key": 2
+    },
+    {
+      "spawnTime": 52.4308,
+      "key": 0
+    },
+    {
+      "spawnTime": 52.9385,
+      "key": 2
+    },
+    {
+      "spawnTime": 53.2615,
+      "key": 2
+    },
+    {
+      "spawnTime": 54.2769,
+      "key": 0
+    },
+    {
+      "spawnTime": 54.7846,
+      "key": 2
+    },
+    {
+      "spawnTime": 55.1077,
+      "key": 2
+    },
+    {
+      "spawnTime": 56.1231,
+      "key": 2
+    },
+    {
+      "spawnTime": 56.3538,
+      "key": 0
+    },
+    {
+      "spawnTime": 56.5846,
+      "key": 0
+    },
+    {
+      "spawnTime": 56.8154,
+      "key": 0
+    },
+    {
+      "spawnTime": 57.9692,
+      "key": 0
+    },
+    {
+      "spawnTime": 59.0769,
+      "key": 0
+    },
+    {
+      "spawnTime": 59.3538,
+      "key": 0
+    },
+    {
+      "spawnTime": 59.6769,
+      "key": 0
+    },
+    {
+      "spawnTime": 60.0,
+      "key": 2
+    },
+    {
+      "spawnTime": 60.3231,
+      "key": 0
+    },
+    {
+      "spawnTime": 60.6462,
+      "key": 0
+    },
+    {
+      "spawnTime": 60.9692,
+      "key": 0
+    },
+    {
+      "spawnTime": 61.2923,
+      "key": 0
+    },
+    {
+      "spawnTime": 61.6154,
+      "key": 1
+    },
+    {
+      "spawnTime": 61.9385,
+      "key": 1
+    },
+
+    {
+      "spawnTime": 65.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 65.7692,
+      "key": 1
+    },
+    {
+      "spawnTime": 67.1538,
+      "key": 1
+    },
+    {
+      "spawnTime": 67.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 67.6154,
+      "key": 2
+    },
+    {
+      "spawnTime": 67.9615,
+      "key": 0
+    },
+    {
+      "spawnTime": 68.4231,
+      "key": 2
+    },
+    {
+      "spawnTime": 69.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 69.2308,
+      "key": 0
+    },
+    {
+      "spawnTime": 69.9231,
+      "key": 0
+    },
+    {
+      "spawnTime": 70.1538,
+      "key": 2
+    },
+    {
+      "spawnTime": 70.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 70.6154,
+      "key": 2
+    },
+    {
+      "spawnTime": 70.8462,
+      "key": 1
+    },
+    {
+      "spawnTime": 71.0769,
+      "key": 1
+    },
+    {
+      "spawnTime": 72.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 72.9231,
+      "key": 0
+    },
+    {
+      "spawnTime": 73.6154,
+      "key": 0
+    },
+    {
+      "spawnTime": 74.0769,
+      "key": 0
+    },
+    {
+      "spawnTime": 74.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 74.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 74.7692,
+      "key": 0
+    },
+    {
+      "spawnTime": 75.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 75.2308,
+      "key": 0
+    },
+    {
+      "spawnTime": 75.4615,
+      "key": 0
+    },
+    {
+      "spawnTime": 76.3846,
+      "key": 0
+    },
+    {
+      "spawnTime": 77.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 77.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 77.7692,
+      "key": 0
+    },
+    {
+      "spawnTime": 78.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 78.4615,
+      "key": 0
+    },
+    {
+      "spawnTime": 78.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 79.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 80.0769,
+      "key": 1
+    },
+    {
+      "spawnTime": 80.3077,
+      "key": 1
+    },
+    {
+      "spawnTime": 81.4615,
+      "key": 2
+    },
+    {
+      "spawnTime": 81.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 81.9231,
+      "key": 1
+    },
+    {
+      "spawnTime": 82.1538,
+      "key": 1
+    },
+    {
+      "spawnTime": 83.3077,
+      "key": 2
+    },
+    {
+      "spawnTime": 83.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 84.0,
+      "key": 1
+    },
+    {
+      "spawnTime": 85.1538,
+      "key": 2
+    },
+    {
+      "spawnTime": 85.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 85.6154,
+      "key": 1
+    },
+    {
+      "spawnTime": 85.8462,
+      "key": 1
+    },
+    {
+      "spawnTime": 86.7692,
+      "key": 1
+    },
+    {
+      "spawnTime": 87.1154,
+      "key": 1
+    },
+    {
+      "spawnTime": 87.4615,
+      "key": 1
+    },
+    {
+      "spawnTime": 87.6923,
+      "key": 1
+    },
+    {
+      "spawnTime": 88.8462,
+      "key": 1
+    },
+    {
+      "spawnTime": 89.0769,
+      "key": 2
+    },
+    {
+      "spawnTime": 89.3077,
+      "key": 2
+    },
+    {
+      "spawnTime": 89.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 90.6923,
+      "key": 1
+    },
+    {
+      "spawnTime": 90.9231,
+      "key": 2
+    },
+    {
+      "spawnTime": 91.1538,
+      "key": 2
+    },
+    {
+      "spawnTime": 91.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 92.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 92.6538,
+      "key": 2
+    },
+    {
+      "spawnTime": 93.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 93.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 93.4615,
+      "key": 2
+    },
+    {
+      "spawnTime": 93.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 93.9231,
+      "key": 2
+    },
+    {
+      "spawnTime": 94.1538,
+      "key": 2
+    },
+    {
+      "spawnTime": 94.5,
+      "key": 2
+    },
+
+    {
+      "spawnTime": 109.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 110.2154,
+      "key": 2
+    },
+    {
+      "spawnTime": 111.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 111.4615,
+      "key": 0
+    },
+    {
+      "spawnTime": 111.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 112.0154,
+      "key": 2
+    },
+    {
+      "spawnTime": 112.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 113.3077,
+      "key": 0
+    },
+    {
+      "spawnTime": 113.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 113.9077,
+      "key": 2
+    },
+    {
+      "spawnTime": 114.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 115.1538,
+      "key": 0
+    },
+    {
+      "spawnTime": 115.3846,
+      "key": 2
+    },
+    {
+      "spawnTime": 115.7538,
+      "key": 2
+    },
+    {
+      "spawnTime": 116.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 117.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 117.2308,
+      "key": 2
+    },
+    {
+      "spawnTime": 117.6,
+      "key": 2
+    },
+    {
+      "spawnTime": 118.3846,
+      "key": 0
+    },
+    {
+      "spawnTime": 118.8462,
+      "key": 0
+    },
+    {
+      "spawnTime": 119.0769,
+      "key": 2
+    },
+    {
+      "spawnTime": 119.4462,
+      "key": 2
+    },
+    {
+      "spawnTime": 120.2308,
+      "key": 0
+    },
+    {
+      "spawnTime": 120.6923,
+      "key": 0
+    },
+    {
+      "spawnTime": 120.9231,
+      "key": 1
+    },
+    {
+      "spawnTime": 121.2923,
+      "key": 2
+    },
+    {
+      "spawnTime": 122.0769,
+      "key": 0
+    },
+    {
+      "spawnTime": 122.5385,
+      "key": 0
+    },
+    {
+      "spawnTime": 122.7692,
+      "key": 1
+    },
+    {
+      "spawnTime": 123.1385,
+      "key": 2
+    },
+    {
+      "spawnTime": 123.4615,
+      "key": 1
+    },
+    {
+      "spawnTime": 123.6923,
+      "key": 1
+    },
+    {
+      "spawnTime": 124.0154,
+      "key": 1
+    },
+    {
+      "spawnTime": 124.3385,
+      "key": 2
+    },
+    {
+      "spawnTime": 124.6154,
+      "key": 2
+    },
+    {
+      "spawnTime": 125.0769,
+      "key": 2
+    },
+    {
+      "spawnTime": 125.3538,
+      "key": 2
+    },
+    {
+      "spawnTime": 126.2769,
+      "key": 0
+    },
+    {
+      "spawnTime": 126.7846,
+      "key": 2
+    },
+    {
+      "spawnTime": 127.1077,
+      "key": 2
+    },
+    {
+      "spawnTime": 128.1231,
+      "key": 0
+    },
+    {
+      "spawnTime": 128.6308,
+      "key": 2
+    },
+    {
+      "spawnTime": 128.9538,
+      "key": 2
+    },
+    {
+      "spawnTime": 129.9692,
+      "key": 2
+    },
+    {
+      "spawnTime": 130.2,
+      "key": 0
+    },
+    {
+      "spawnTime": 130.4308,
+      "key": 0
+    },
+    {
+      "spawnTime": 130.6615,
+      "key": 0
+    },
+    {
+      "spawnTime": 131.8154,
+      "key": 0
+    },
+    {
+      "spawnTime": 132.7385,
+      "key": 0
+    },
+    {
+      "spawnTime": 133.2,
+      "key": 0
+    },
+    {
+      "spawnTime": 133.5231,
+      "key": 2
+    },
+    {
+      "spawnTime": 133.8462,
+      "key": 2
+    },
+    {
+      "spawnTime": 134.1692,
+      "key": 2
+    },
+    {
+      "spawnTime": 134.4923,
+      "key": 0
+    },
+    {
+      "spawnTime": 134.8154,
+      "key": 0
+    },
+    {
+      "spawnTime": 135.1385,
+      "key": 0
+    },
+    {
+      "spawnTime": 135.4615,
+      "key": 1
+    },
+    {
+      "spawnTime": 135.7846,
+      "key": 1
+    },
+
+    {
+      "spawnTime": 139.3846,
+      "key": 0
+    },
+    {
+      "spawnTime": 139.7308,
+      "key": 2
+    },
+    {
+      "spawnTime": 139.9615,
+      "key": 0
+    },
+    {
+      "spawnTime": 140.3077,
+      "key": 2
+    },
+    {
+      "spawnTime": 140.7692,
+      "key": 0
+    },
+    {
+      "spawnTime": 141.1154,
+      "key": 2
+    },
+    {
+      "spawnTime": 141.3462,
+      "key": 0
+    },
+    {
+      "spawnTime": 141.6923,
+      "key": 2
+    },
+    {
+      "spawnTime": 142.1538,
+      "key": 1
+    },
+    {
+      "spawnTime": 142.6154,
+      "key": 0
+    },
+    {
+      "spawnTime": 142.9615,
+      "key": 2
+    },
+    {
+      "spawnTime": 143.1923,
+      "key": 0
+    },
+    {
+      "spawnTime": 143.5385,
+      "key": 2
+    },
+    {
+      "spawnTime": 144.0,
+      "key": 0
+    },
+    {
+      "spawnTime": 144.3462,
+      "key": 2
+    },
+    {
+      "spawnTime": 144.5769,
+      "key": 0
+    },
+    {
+      "spawnTime": 144.9231,
+      "key": 2
+    },
+    {
+      "spawnTime": 145.3846,
+      "key": 1
+    }
+
+
+  ]
+}
+
